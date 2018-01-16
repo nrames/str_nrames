@@ -1,4 +1,5 @@
 require "str_nrames/version"
+require "str_nrames/greetings"
 
 module StrNrames
   
